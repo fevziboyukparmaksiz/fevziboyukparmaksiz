@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AspNetCoreIdentityApp](https://github.com/fevziboyukparmaksiz/AspNetCoreIdentityApp)
 
-- 🌱 I’m currently learning **Asp.NetCore.Identity**
+- 🌱 I’m currently learning **Asp.NetCore Identity**
 
 - 📫 How to reach me **fevzibparmaksiz@gmail.com**
 
