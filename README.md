@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fevzi Boyukparmaksiz</h1>
 <h3 align="center">.Net Developer Trainee</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fevziboyukparmaksiz&label=Profile%20views&color=0e75b6&style=flat" alt="fevziboyukparmaksiz" /> </p>
-
 - 🔭 I’m currently working on [NLayerApp](https://github.com/fevziboyukparmaksiz/NLayerApp)
 
 - 🌱 I’m currently learning **N-Layer Architecture**
 
 - 📫 How to reach me **fevzibparmaksiz@gmail.com**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fevzi-böyükparmaksız) 
@@ -19,7 +18,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fevziboyukparmaksiz&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fevziboyukparmaksiz&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=fevziboyukparmaksiz&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+
