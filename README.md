@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NLayerApp](https://github.com/fevziboyukparmaksiz/NLayerApp)
 
-- 🌱 I’m currently learning **N+Layer Architecture**
+- 🌱 I’m currently learning **N-Layer Architecture**
 
 - 📫 How to reach me **fevzibparmaksiz@gmail.com**
 
