@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fevziboyukparmaksiz&label=Profile%20views&color=0e75b6&style=flat" alt="fevziboyukparmaksiz" /> </p>
 
-- 🔭 I’m currently working on [AspNetCoreIdentityApp](https://github.com/fevziboyukparmaksiz/AspNetCoreIdentityApp)
+- 🔭 I’m currently working on [NLayerApp](https://github.com/fevziboyukparmaksiz/NLayerApp)
 
-- 🌱 I’m currently learning **Asp.NetCore Identity**
+- 🌱 I’m currently learning **N+Layer Architecture**
 
 - 📫 How to reach me **fevzibparmaksiz@gmail.com**
 
