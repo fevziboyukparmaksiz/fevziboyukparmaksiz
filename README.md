@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fevzi Boyukparmaksiz</h1>
 <h3 align="center">.Net Developer Trainee</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fevziboyukparmaksiz&label=Profile%20views&color=0e75b6&style=flat" alt="fevziboyukparmaksiz" /> </p>
 
 - 🌱 I’m currently learning **N-Layer Architecture**
 
 - 📫 How to reach me **fevzibparmaksiz@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fevziboyukparmaksiz&label=Profile%20views&color=0e75b6&style=flat" alt="fevziboyukparmaksiz" /> </p>
 
 
 ## 🌐 Socials:
